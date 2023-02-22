@@ -62,3 +62,13 @@ p{
 audio{
     margin-top: 20px;
 }
+
+.footer{
+    text-align: center;
+}
+
+.gitHub{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
